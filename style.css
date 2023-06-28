@@ -581,3 +581,7 @@ section h3 span {
 .teacher > .body .card .pro .details .light-text {
   color: #b1a5cf;
 }
+
+.teacher > .body .card .rating {
+  color: #535adf;
+}
